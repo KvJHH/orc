@@ -1,0 +1,7 @@
+# config
+db.orchestrator=jdbc:mysql://39.99.247.207:3306/orchestrator?user=orchestrator&password=passw0rd&serverTimezone=GMT%2B8
+orc.host=https://39.99.247.207:3443
+orc.user=admin
+orc.password=admin
+
+act.host=http://47.92.26.82:8700
